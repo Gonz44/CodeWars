@@ -1,6 +1,6 @@
 function betterThanAverage(classPoints, yourPoints) {
-  return "hello"// Your code here
+  // Your code here
 }
 
 
-module.export = betterThanAverage;
+module.exports = betterThanAverage;
