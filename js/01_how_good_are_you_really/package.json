@@ -1,0 +1,19 @@
+{
+  "name": "01_how_good_are_you_really",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_how_good_are_you_really.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
