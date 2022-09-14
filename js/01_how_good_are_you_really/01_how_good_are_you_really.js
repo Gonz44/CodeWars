@@ -1,5 +1,5 @@
 function betterThanAverage(classPoints, yourPoints) {
-  // Your code here..k
+  // Your code here..ñññ
 }
 
 
